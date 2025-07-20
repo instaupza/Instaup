@@ -1,0 +1,349 @@
+2025-07-18 20:53:30,315 - INFO - Bot keeper started
+2025-07-18 20:53:30,315 - INFO - Bot started with PID: 1838
+2025-07-18 20:53:31,354 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:53:31,354 - INFO - Daily restart counter reset
+2025-07-18 20:53:31,354 - INFO - Restarting bot... (Attempt 1/50)
+2025-07-18 20:53:37,355 - INFO - Bot started with PID: 1850
+2025-07-18 20:53:38,383 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:53:38,383 - INFO - Restarting bot... (Attempt 2/50)
+2025-07-18 20:53:44,384 - INFO - Bot started with PID: 1855
+2025-07-18 20:53:45,425 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:53:45,425 - INFO - Restarting bot... (Attempt 3/50)
+2025-07-18 20:53:51,426 - INFO - Bot started with PID: 1860
+2025-07-18 20:53:52,454 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:53:52,455 - INFO - Restarting bot... (Attempt 4/50)
+2025-07-18 20:53:58,460 - INFO - Bot started with PID: 1865
+2025-07-18 20:53:59,492 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:53:59,493 - INFO - Restarting bot... (Attempt 5/50)
+2025-07-18 20:54:05,494 - INFO - Bot started with PID: 1870
+2025-07-18 20:54:06,530 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:54:06,530 - INFO - Restarting bot... (Attempt 6/50)
+2025-07-18 20:54:12,531 - INFO - Bot started with PID: 1875
+2025-07-18 20:54:13,558 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:54:13,559 - INFO - Restarting bot... (Attempt 7/50)
+2025-07-18 20:54:19,559 - INFO - Bot started with PID: 1880
+2025-07-18 20:54:20,585 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:54:20,585 - INFO - Restarting bot... (Attempt 8/50)
+2025-07-18 20:54:26,586 - INFO - Bot started with PID: 1886
+2025-07-18 20:54:27,612 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:54:27,612 - INFO - Restarting bot... (Attempt 9/50)
+2025-07-18 20:54:33,613 - INFO - Bot started with PID: 1892
+2025-07-18 20:54:34,644 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:54:34,644 - INFO - Restarting bot... (Attempt 10/50)
+2025-07-18 20:54:40,645 - INFO - Bot started with PID: 1897
+2025-07-18 20:54:41,674 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:54:41,675 - INFO - Restarting bot... (Attempt 11/50)
+2025-07-18 20:54:47,675 - INFO - Bot started with PID: 1901
+2025-07-18 20:54:48,701 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:54:48,702 - INFO - Restarting bot... (Attempt 12/50)
+2025-07-18 20:54:54,702 - INFO - Bot started with PID: 1906
+2025-07-18 20:54:55,729 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:54:55,730 - INFO - Restarting bot... (Attempt 13/50)
+2025-07-18 20:55:01,730 - INFO - Bot started with PID: 1912
+2025-07-18 20:55:02,757 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:55:02,758 - INFO - Restarting bot... (Attempt 14/50)
+2025-07-18 20:55:08,758 - INFO - Bot started with PID: 1917
+2025-07-18 20:55:09,792 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:55:09,792 - INFO - Restarting bot... (Attempt 15/50)
+2025-07-18 20:55:15,793 - INFO - Bot started with PID: 1922
+2025-07-18 20:55:16,840 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:55:16,840 - INFO - Restarting bot... (Attempt 16/50)
+2025-07-18 20:55:22,841 - INFO - Bot started with PID: 1927
+2025-07-18 20:55:23,870 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:55:23,870 - INFO - Restarting bot... (Attempt 17/50)
+2025-07-18 20:55:29,871 - INFO - Bot started with PID: 1931
+2025-07-18 20:55:30,898 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:55:30,898 - INFO - Restarting bot... (Attempt 18/50)
+2025-07-18 20:55:36,904 - INFO - Bot started with PID: 1936
+2025-07-18 20:55:37,975 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:55:37,975 - INFO - Restarting bot... (Attempt 19/50)
+2025-07-18 20:55:43,976 - INFO - Bot started with PID: 1941
+2025-07-18 20:55:45,006 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:55:45,007 - INFO - Restarting bot... (Attempt 20/50)
+2025-07-18 20:55:51,007 - INFO - Bot started with PID: 1946
+2025-07-18 20:55:52,038 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:55:52,038 - INFO - Restarting bot... (Attempt 21/50)
+2025-07-18 20:55:58,039 - INFO - Bot started with PID: 1951
+2025-07-18 20:55:59,063 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:55:59,063 - INFO - Restarting bot... (Attempt 22/50)
+2025-07-18 20:56:05,064 - INFO - Bot started with PID: 1956
+2025-07-18 20:56:06,088 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:56:06,089 - INFO - Restarting bot... (Attempt 23/50)
+2025-07-18 20:56:12,089 - INFO - Bot started with PID: 1962
+2025-07-18 20:56:13,124 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:56:13,124 - INFO - Restarting bot... (Attempt 24/50)
+2025-07-18 20:56:19,126 - INFO - Bot started with PID: 1967
+2025-07-18 20:56:20,164 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:56:20,167 - INFO - Restarting bot... (Attempt 25/50)
+2025-07-18 20:56:26,167 - INFO - Bot started with PID: 1972
+2025-07-18 20:56:27,202 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:56:27,203 - INFO - Restarting bot... (Attempt 26/50)
+2025-07-18 20:56:33,203 - INFO - Bot started with PID: 1977
+2025-07-18 20:56:34,274 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:56:34,274 - INFO - Restarting bot... (Attempt 27/50)
+2025-07-18 20:56:40,275 - INFO - Bot started with PID: 1982
+2025-07-18 20:56:41,307 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:56:41,307 - INFO - Restarting bot... (Attempt 28/50)
+2025-07-18 20:56:47,308 - INFO - Bot started with PID: 1987
+2025-07-18 20:56:48,333 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:56:48,334 - INFO - Restarting bot... (Attempt 29/50)
+2025-07-18 20:56:54,334 - INFO - Bot started with PID: 1992
+2025-07-18 20:56:55,369 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:56:55,369 - INFO - Restarting bot... (Attempt 30/50)
+2025-07-18 20:57:01,370 - INFO - Bot started with PID: 1996
+2025-07-18 20:57:02,398 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:57:02,398 - INFO - Restarting bot... (Attempt 31/50)
+2025-07-18 20:57:08,399 - INFO - Bot started with PID: 2001
+2025-07-18 20:57:09,425 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:57:09,425 - INFO - Restarting bot... (Attempt 32/50)
+2025-07-18 20:57:15,426 - INFO - Bot started with PID: 2005
+2025-07-18 20:57:16,452 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:57:16,452 - INFO - Restarting bot... (Attempt 33/50)
+2025-07-18 20:57:22,453 - INFO - Bot started with PID: 2010
+2025-07-18 20:57:23,477 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:57:23,477 - INFO - Restarting bot... (Attempt 34/50)
+2025-07-18 20:57:29,478 - INFO - Bot started with PID: 2015
+2025-07-18 20:57:30,503 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:57:30,503 - INFO - Restarting bot... (Attempt 35/50)
+2025-07-18 20:57:36,504 - INFO - Bot started with PID: 2020
+2025-07-18 20:57:37,531 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:57:37,531 - INFO - Restarting bot... (Attempt 36/50)
+2025-07-18 20:57:43,532 - INFO - Bot started with PID: 2025
+2025-07-18 20:57:44,560 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:57:44,560 - INFO - Restarting bot... (Attempt 37/50)
+2025-07-18 20:57:50,561 - INFO - Bot started with PID: 2030
+2025-07-18 20:57:51,586 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:57:51,586 - INFO - Restarting bot... (Attempt 38/50)
+2025-07-18 20:57:57,587 - INFO - Bot started with PID: 2034
+2025-07-18 20:57:58,614 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:57:58,614 - INFO - Restarting bot... (Attempt 39/50)
+2025-07-18 20:58:04,615 - INFO - Bot started with PID: 2039
+2025-07-18 20:58:05,648 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:58:05,648 - INFO - Restarting bot... (Attempt 40/50)
+2025-07-18 20:58:11,648 - INFO - Bot started with PID: 2044
+2025-07-18 20:58:12,685 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:58:12,685 - INFO - Restarting bot... (Attempt 41/50)
+2025-07-18 20:58:18,686 - INFO - Bot started with PID: 2049
+2025-07-18 20:58:19,712 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:58:19,712 - INFO - Restarting bot... (Attempt 42/50)
+2025-07-18 20:58:25,713 - INFO - Bot started with PID: 2054
+2025-07-18 20:58:26,738 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:58:26,738 - INFO - Restarting bot... (Attempt 43/50)
+2025-07-18 20:58:32,739 - INFO - Bot started with PID: 2059
+2025-07-18 20:58:33,764 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:58:33,765 - INFO - Restarting bot... (Attempt 44/50)
+2025-07-18 20:58:39,765 - INFO - Bot started with PID: 2063
+2025-07-18 20:58:40,795 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:58:40,796 - INFO - Restarting bot... (Attempt 45/50)
+2025-07-18 20:58:46,797 - INFO - Bot started with PID: 2068
+2025-07-18 20:58:47,827 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:58:47,827 - INFO - Restarting bot... (Attempt 46/50)
+2025-07-18 20:58:53,828 - INFO - Bot started with PID: 2073
+2025-07-18 20:58:54,854 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:58:54,855 - INFO - Restarting bot... (Attempt 47/50)
+2025-07-18 20:59:00,855 - INFO - Bot started with PID: 2077
+2025-07-18 20:59:01,885 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:59:01,885 - INFO - Restarting bot... (Attempt 48/50)
+2025-07-18 20:59:07,886 - INFO - Bot started with PID: 2081
+2025-07-18 20:59:08,917 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:59:08,917 - INFO - Restarting bot... (Attempt 49/50)
+2025-07-18 20:59:14,918 - INFO - Bot started with PID: 2086
+2025-07-18 20:59:15,950 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:59:15,951 - INFO - Restarting bot... (Attempt 50/50)
+2025-07-18 20:59:21,951 - INFO - Bot started with PID: 2091
+2025-07-18 20:59:22,979 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 20:59:22,979 - CRITICAL - Maximum daily restarts reached. Waiting until tomorrow...
+2025-07-18 21:01:34,993 - INFO - Bot keeper started
+2025-07-18 21:01:34,994 - INFO - Bot started with PID: 2161
+2025-07-18 21:01:36,098 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:01:36,098 - INFO - Daily restart counter reset
+2025-07-18 21:01:36,098 - INFO - Restarting bot... (Attempt 1/50)
+2025-07-18 21:01:42,099 - INFO - Bot started with PID: 2185
+2025-07-18 21:01:43,129 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:01:43,129 - INFO - Restarting bot... (Attempt 2/50)
+2025-07-18 21:01:49,130 - INFO - Bot started with PID: 2189
+2025-07-18 21:01:50,160 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:01:50,160 - INFO - Restarting bot... (Attempt 3/50)
+2025-07-18 21:01:56,161 - INFO - Bot started with PID: 2194
+2025-07-18 21:01:57,189 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:01:57,189 - INFO - Restarting bot... (Attempt 4/50)
+2025-07-18 21:02:03,190 - INFO - Bot started with PID: 2199
+2025-07-18 21:02:04,217 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:02:04,218 - INFO - Restarting bot... (Attempt 5/50)
+2025-07-18 21:02:10,218 - INFO - Bot started with PID: 2204
+2025-07-18 21:02:11,244 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:02:11,244 - INFO - Restarting bot... (Attempt 6/50)
+2025-07-18 21:02:17,245 - INFO - Bot started with PID: 2209
+2025-07-18 21:02:18,274 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:02:18,274 - INFO - Restarting bot... (Attempt 7/50)
+2025-07-18 21:02:24,284 - INFO - Bot started with PID: 2214
+2025-07-18 21:02:25,320 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:02:25,320 - INFO - Restarting bot... (Attempt 8/50)
+2025-07-18 21:02:31,321 - INFO - Bot started with PID: 2218
+2025-07-18 21:02:32,354 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:02:32,355 - INFO - Restarting bot... (Attempt 9/50)
+2025-07-18 21:02:38,355 - INFO - Bot started with PID: 2222
+2025-07-18 21:02:39,385 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:02:39,385 - INFO - Restarting bot... (Attempt 10/50)
+2025-07-18 21:02:45,386 - INFO - Bot started with PID: 2227
+2025-07-18 21:02:46,433 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:02:46,433 - INFO - Restarting bot... (Attempt 11/50)
+2025-07-18 21:02:52,434 - INFO - Bot started with PID: 2236
+2025-07-18 21:02:53,472 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:02:53,472 - INFO - Restarting bot... (Attempt 12/50)
+2025-07-18 21:02:59,473 - INFO - Bot started with PID: 2241
+2025-07-18 21:03:00,512 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:03:00,512 - INFO - Restarting bot... (Attempt 13/50)
+2025-07-18 21:03:06,513 - INFO - Bot started with PID: 2343
+2025-07-18 21:03:07,549 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:03:07,550 - INFO - Restarting bot... (Attempt 14/50)
+2025-07-18 21:03:13,550 - INFO - Bot started with PID: 2348
+2025-07-18 21:03:14,586 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:03:14,586 - INFO - Restarting bot... (Attempt 15/50)
+2025-07-18 21:03:20,587 - INFO - Bot started with PID: 2353
+2025-07-18 21:03:21,630 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:03:21,635 - INFO - Restarting bot... (Attempt 16/50)
+2025-07-18 21:03:27,635 - INFO - Bot started with PID: 2357
+2025-07-18 21:03:28,667 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:03:28,667 - INFO - Restarting bot... (Attempt 17/50)
+2025-07-18 21:03:34,668 - INFO - Bot started with PID: 2362
+2025-07-18 21:03:35,695 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:03:35,696 - INFO - Restarting bot... (Attempt 18/50)
+2025-07-18 21:03:41,696 - INFO - Bot started with PID: 2368
+2025-07-18 21:03:42,722 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:03:42,722 - INFO - Restarting bot... (Attempt 19/50)
+2025-07-18 21:03:48,723 - INFO - Bot started with PID: 2373
+2025-07-18 21:03:49,750 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:03:49,750 - INFO - Restarting bot... (Attempt 20/50)
+2025-07-18 21:03:55,751 - INFO - Bot started with PID: 2378
+2025-07-18 21:03:56,778 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:03:56,779 - INFO - Restarting bot... (Attempt 21/50)
+2025-07-18 21:04:02,779 - INFO - Bot started with PID: 2384
+2025-07-18 21:04:03,805 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:04:03,805 - INFO - Restarting bot... (Attempt 22/50)
+2025-07-18 21:04:09,805 - INFO - Bot started with PID: 2388
+2025-07-18 21:04:10,832 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:04:10,832 - INFO - Restarting bot... (Attempt 23/50)
+2025-07-18 21:04:16,835 - INFO - Bot started with PID: 2393
+2025-07-18 21:04:17,875 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:04:17,875 - INFO - Restarting bot... (Attempt 24/50)
+2025-07-18 21:04:23,876 - INFO - Bot started with PID: 2398
+2025-07-18 21:04:24,912 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:04:24,912 - INFO - Restarting bot... (Attempt 25/50)
+2025-07-18 21:04:30,913 - INFO - Bot started with PID: 2403
+2025-07-18 21:04:31,950 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:04:31,951 - INFO - Restarting bot... (Attempt 26/50)
+2025-07-18 21:04:37,951 - INFO - Bot started with PID: 2409
+2025-07-18 21:04:38,991 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:04:38,991 - INFO - Restarting bot... (Attempt 27/50)
+2025-07-18 21:04:44,992 - INFO - Bot started with PID: 2414
+2025-07-18 21:04:46,024 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:04:46,024 - INFO - Restarting bot... (Attempt 28/50)
+2025-07-18 21:04:52,025 - INFO - Bot started with PID: 2419
+2025-07-18 21:04:53,057 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:04:53,057 - INFO - Restarting bot... (Attempt 29/50)
+2025-07-18 21:04:59,058 - INFO - Bot started with PID: 2424
+2025-07-18 21:05:00,090 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:05:00,091 - INFO - Restarting bot... (Attempt 30/50)
+2025-07-18 21:05:06,091 - INFO - Bot started with PID: 2430
+2025-07-18 21:05:07,121 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:05:07,121 - INFO - Restarting bot... (Attempt 31/50)
+2025-07-18 21:05:13,122 - INFO - Bot started with PID: 2436
+2025-07-18 21:05:14,158 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:05:14,158 - INFO - Restarting bot... (Attempt 32/50)
+2025-07-18 21:05:20,159 - INFO - Bot started with PID: 2441
+2025-07-18 21:05:21,236 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:05:21,237 - INFO - Restarting bot... (Attempt 33/50)
+2025-07-18 21:05:27,237 - INFO - Bot started with PID: 2446
+2025-07-18 21:05:28,270 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:05:28,270 - INFO - Restarting bot... (Attempt 34/50)
+2025-07-18 21:05:34,271 - INFO - Bot started with PID: 2450
+2025-07-18 21:05:35,305 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:05:35,305 - INFO - Restarting bot... (Attempt 35/50)
+2025-07-18 21:05:41,306 - INFO - Bot started with PID: 2455
+2025-07-18 21:05:42,342 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:05:42,342 - INFO - Restarting bot... (Attempt 36/50)
+2025-07-18 21:05:48,343 - INFO - Bot started with PID: 2460
+2025-07-18 21:05:49,384 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:05:49,385 - INFO - Restarting bot... (Attempt 37/50)
+2025-07-18 21:05:55,386 - INFO - Bot started with PID: 2465
+2025-07-18 21:05:56,414 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:05:56,414 - INFO - Restarting bot... (Attempt 38/50)
+2025-07-18 21:06:02,415 - INFO - Bot started with PID: 2470
+2025-07-18 21:06:03,443 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:06:03,443 - INFO - Restarting bot... (Attempt 39/50)
+2025-07-18 21:06:09,444 - INFO - Bot started with PID: 2475
+2025-07-18 21:06:10,469 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:06:10,470 - INFO - Restarting bot... (Attempt 40/50)
+2025-07-18 21:06:16,470 - INFO - Bot started with PID: 2480
+2025-07-18 21:06:17,508 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:06:17,508 - INFO - Restarting bot... (Attempt 41/50)
+2025-07-18 21:06:23,509 - INFO - Bot started with PID: 2485
+2025-07-18 21:06:24,536 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:06:24,536 - INFO - Restarting bot... (Attempt 42/50)
+2025-07-18 21:06:30,537 - INFO - Bot started with PID: 2490
+2025-07-18 21:06:31,572 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:06:31,572 - INFO - Restarting bot... (Attempt 43/50)
+2025-07-18 21:06:37,573 - INFO - Bot started with PID: 2495
+2025-07-18 21:06:38,606 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:06:38,606 - INFO - Restarting bot... (Attempt 44/50)
+2025-07-18 21:06:44,607 - INFO - Bot started with PID: 2500
+2025-07-18 21:06:45,634 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:06:45,634 - INFO - Restarting bot... (Attempt 45/50)
+2025-07-18 21:06:51,634 - INFO - Bot started with PID: 2505
+2025-07-18 21:06:52,664 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:06:52,665 - INFO - Restarting bot... (Attempt 46/50)
+2025-07-18 21:06:58,665 - INFO - Bot started with PID: 2510
+2025-07-18 21:06:59,706 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:06:59,706 - INFO - Restarting bot... (Attempt 47/50)
+2025-07-18 21:07:05,707 - INFO - Bot started with PID: 2514
+2025-07-18 21:07:06,747 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:07:06,747 - INFO - Restarting bot... (Attempt 48/50)
+2025-07-18 21:07:12,748 - INFO - Bot started with PID: 2519
+2025-07-18 21:07:13,783 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:07:13,783 - INFO - Restarting bot... (Attempt 49/50)
+2025-07-18 21:07:19,784 - INFO - Bot started with PID: 2523
+2025-07-18 21:07:20,809 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:07:20,810 - INFO - Restarting bot... (Attempt 50/50)
+2025-07-18 21:07:26,811 - INFO - Bot started with PID: 2528
+2025-07-18 21:07:27,852 - WARNING - Bot process stopped with exit code: 1
+2025-07-18 21:07:27,852 - CRITICAL - Maximum daily restarts reached. Waiting until tomorrow...
+2025-07-18 21:08:33,982 - INFO - Signal 15 received. Shutting down...
+2025-07-18 21:08:34,009 - INFO - Signal 15 received. Shutting down...
+2025-07-18 21:17:08,746 - INFO - Bot keeper started
+2025-07-18 21:17:08,751 - INFO - Bot started with PID: 2869
+2025-07-18 21:17:11,354 - INFO - Bot keeper started
+2025-07-18 21:17:11,355 - INFO - Bot started with PID: 2890
+2025-07-18 21:23:56,788 - WARNING - Bot process stopped with exit code: 0
+2025-07-18 21:23:56,788 - INFO - Daily restart counter reset
+2025-07-18 21:23:56,788 - INFO - Restarting bot... (Attempt 1/50)
+2025-07-18 21:23:57,158 - WARNING - Bot process stopped with exit code: 0
+2025-07-18 21:23:57,159 - INFO - Daily restart counter reset
+2025-07-18 21:23:57,159 - INFO - Restarting bot... (Attempt 1/50)
+2025-07-18 21:24:02,789 - INFO - Bot started with PID: 3050
+2025-07-18 21:24:03,160 - INFO - Bot started with PID: 3055
+2025-07-18 21:24:42,014 - INFO - Signal 15 received. Shutting down...
+2025-07-18 21:24:42,061 - INFO - Signal 15 received. Shutting down...
+2025-07-18 21:24:42,411 - INFO - Bot keeper stopped
+2025-07-18 21:24:42,888 - INFO - Bot keeper stopped
+2025-07-18 21:24:45,133 - INFO - Bot keeper started
+2025-07-18 21:24:45,134 - INFO - Bot started with PID: 3125
+2025-07-18 21:48:07,735 - INFO - Signal 15 received. Shutting down...
+2025-07-18 21:48:09,053 - INFO - Bot keeper stopped
+2025-07-18 21:48:47,963 - INFO - Bot keeper started
+2025-07-18 21:48:47,964 - INFO - Bot started with PID: 3463
+2025-07-18 21:53:24,635 - INFO - Signal 15 received. Shutting down...
+2025-07-18 21:53:29,963 - INFO - Bot keeper started
+2025-07-18 21:53:29,964 - INFO - Bot started with PID: 3636
+2025-07-18 22:56:38,836 - INFO - Bot keeper started
+2025-07-18 22:56:38,842 - INFO - Bot started with PID: 118
+2025-07-19 02:33:14,539 - INFO - Bot keeper started
+2025-07-19 02:33:14,541 - INFO - Bot started with PID: 141
+2025-07-19 04:59:30,424 - INFO - Bot keeper started
+2025-07-19 04:59:30,427 - INFO - Bot started with PID: 143
+2025-07-19 06:28:38,969 - INFO - Bot keeper started
+2025-07-19 06:28:38,977 - INFO - Bot started with PID: 66
+2025-07-19 08:35:16,333 - INFO - Bot keeper started
+2025-07-19 08:35:16,337 - INFO - Bot started with PID: 115
+2025-07-19 19:28:28,008 - INFO - Bot keeper started
+2025-07-19 19:28:28,012 - INFO - Bot started with PID: 152
